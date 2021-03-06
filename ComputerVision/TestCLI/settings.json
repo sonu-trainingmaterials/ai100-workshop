@@ -1,0 +1,16 @@
+{
+  "CognitiveServicesKeys": {
+    "Url": "https://southeastasia.api.cognitive.microsoft.com/vision/v1.0",
+    "Key": "02241469cbc1456a8c9ed339942c2c3e"
+  },
+  "AzureStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=synergeticsstorage;AccountKey=7KL88AbUEP0+nxMi7evtfzWYMbgwgOpogoxPoNA9BK/px1F2vPDj3xW5u0BC1dpUDC+DnVEVw62wMjrhdspffg==;EndpointSuffix=core.windows.net",
+    "BlobContainer": "images"
+  },
+  "CosmosDB": {
+    "EndpointURI": "https://synergetics-sqlapi.documents.azure.com:443/",
+    "Key": "VUTqLMPk0mBmdepfck3C9KDrL9EbRflKDyc1fJM3dy0Dqggu9CRlQkAQc4AEGGEPNlz12EEnyUYvAO1ioOWi7A==",
+    "DatabaseName": "images",
+    "CollectionName": "metadata"
+  }
+}

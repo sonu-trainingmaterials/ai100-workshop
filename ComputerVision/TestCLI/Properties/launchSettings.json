@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-process E:\\AI-100-Session\\ComputerVision\\sample_images\\"
+    }
+  }
+}

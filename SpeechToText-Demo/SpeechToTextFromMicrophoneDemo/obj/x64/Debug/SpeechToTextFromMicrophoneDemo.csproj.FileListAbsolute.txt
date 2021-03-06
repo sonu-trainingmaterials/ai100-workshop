@@ -1,0 +1,12 @@
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\obj\x64\Debug\SpeechToTextFromMicrophoneDemo.csprojAssemblyReference.cache
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\obj\x64\Debug\SpeechToTextFromMicrophoneDemo.csproj.CoreCompileInputs.cache
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\SpeechToTextFromMicrophoneDemo.exe.config
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\SpeechToTextFromMicrophoneDemo.exe
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\SpeechToTextFromMicrophoneDemo.pdb
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\obj\x64\Debug\SpeechToTextFromMicrophoneDemo.csproj.CopyComplete
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\obj\x64\Debug\SpeechToTextFromMicrophoneDemo.exe
+E:\Training\Microsoft-Trainings\AI-100\AE\SpeechToText-Demo\SpeechToTextFromMicrophoneDemo\obj\x64\Debug\SpeechToTextFromMicrophoneDemo.pdb
